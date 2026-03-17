@@ -10,3 +10,7 @@ b = {"b ": "babe"}
 #set - can be multiple but not duplicate - very random
 s = {"sdf", "Sdf","fdf"}
 #cant concatinate, or multiply
+
+#Types of fuction -4
+1. No parameter, no return
+2. 
