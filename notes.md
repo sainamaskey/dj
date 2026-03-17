@@ -1,8 +1,12 @@
 #tuple is immutable-> cant be changes
+b = ("aple", "bar", "car")
 # -> defined by small bracket
 # -> has ordered
 
-#set - can be multiple but not duplicate
 #dictionary ko curly brac wout key value
+b = {"b ": "babe"}
+
+
+#set - can be multiple but not duplicate - very random
 s = {"sdf", "Sdf","fdf"}
 #cant concatinate, or multiply
