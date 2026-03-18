@@ -13,4 +13,6 @@ s = {"sdf", "Sdf","fdf"}
 
 #Types of fuction -4
 1. No parameter, no return
-2. 
+2. Param, no return
+3. No param , return
+4. param, return
