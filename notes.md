@@ -16,3 +16,5 @@ s = {"sdf", "Sdf","fdf"}
 2. Param, no return
 3. No param , return
 4. param, return
+
+#inheritance- structure
