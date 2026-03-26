@@ -6,7 +6,6 @@ b = ("aple", "bar", "car")
 #dictionary ko curly brac wout key value
 b = {"b ": "babe"}
 
-
 #set - can be multiple but not duplicate - very random
 s = {"sdf", "Sdf","fdf"}
 #cant concatinate, or multiply
@@ -18,3 +17,9 @@ s = {"sdf", "Sdf","fdf"}
 4. param, return
 
 #inheritance- structure
+#
+#
+#
+
+#csv - comma seperated value
+#pandas(package)
